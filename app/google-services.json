@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712637676200",
+    "project_id": "dangerousanimals-2cdf4",
+    "storage_bucket": "dangerousanimals-2cdf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712637676200:android:93213e2e9ac95866f2609d",
+        "android_client_info": {
+          "package_name": "com.locate.dangerousanimaltracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712637676200-1bbdo4shlb58dhkg76b2qmt6g3crhmi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Szjgw1oVxH64DEgoL9i0_M3RbUJ8znI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712637676200-1bbdo4shlb58dhkg76b2qmt6g3crhmi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
