@@ -2,7 +2,7 @@
 
 ## Overview
 * Problem: It is hard to keep track of dangerous animals in your area or neighborhood that may be causing problems for the Community
-* Soultion: Track or log the animals so members of the Community know where these animals are most likely to be seen
+* Solution: Track or log the animals so members of the Community know where these animals are most likely to be seen
 ## Description
 The Dangerous Animal Reporting Application allows users to report dangerous or troublesome animals in their area. These reports will be added to a map that other users can see. By reporting sightings of bears, alligators, raccoons, snakes, and other animals, this helps individuals be more aware of their surroundings.
 ## Tools and Features
